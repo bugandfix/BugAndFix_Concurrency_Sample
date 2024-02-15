@@ -1,0 +1,6 @@
+@BugAndFix_Concurrency_Sample_HostAddress = http://localhost:5199
+
+GET {{BugAndFix_Concurrency_Sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
